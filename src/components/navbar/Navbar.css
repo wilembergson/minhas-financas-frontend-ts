@@ -1,0 +1,14 @@
+.navbar{
+    background: rgb(230, 55, 55);
+    height: 100px;
+}
+
+li{
+    
+}
+
+a{
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+}
